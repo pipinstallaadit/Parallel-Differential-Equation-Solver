@@ -142,7 +142,7 @@ You can modify:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Aadit Pujari**
 
