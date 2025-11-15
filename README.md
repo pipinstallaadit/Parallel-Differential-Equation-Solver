@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)]()
 
 ---
-
+Reference: https://scholarworks.uni.edu/jias/vol101/iss2/11/
 ## 🚀 Overview  
 This project implements **parallel solvers** for classical partial differential equations (PDEs) such as:
 
