@@ -145,7 +145,9 @@ You can modify:
 ## 👨‍💻 Author
 
 **Aadit Pujari**
+
 **Krish Shah**
+
 **Mudit Jain**
 
 
