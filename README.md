@@ -1,6 +1,4 @@
 # Parallel-Differential-Equation-Solver
-
-# ⚡ Parallel Differential Equation Solver  
 *A high-performance C++ implementation for solving PDEs using parallel computation.*
 
 [![C++](https://img.shields.io/badge/Language-C%2B%2B11-blue.svg)]()
